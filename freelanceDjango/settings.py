@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'jobPost.apps.JobpostConfig',
+    'rest_framework',
 ]
 
 MIDDLEWARE = [
